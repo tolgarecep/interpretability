@@ -1,6 +1,6 @@
 # Interpretability
 
-`deepdream.ipynb`
+`deepdream.ipynb` - Inceptionism on VGGFace2-ResNet50
 ---
 An example for the most commonly used neural network interpretation method that is a post-hoc interpretation of the learned model. Post-hoc interpretability is the property of models that do not deal with how does the model work but deal with explanations made after the learning is over. The concept is examined in <i>Lipton, The Mythos of Model Interpretability</i> as follows:
 
