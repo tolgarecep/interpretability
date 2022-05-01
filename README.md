@@ -28,3 +28,9 @@ have been explored to investigate what information is retained at various layers
 convolutional neural network to generate a representation.
 They then demonstrate that the original image can be recovered with high fidelity even from reasonably high-level
 representations (level 6 of an AlexNet) by performing gradient descent on randomly initialized pixels"</i></center>
+
+`deepdream_mnist.ipynb` - dense_1, 32
+---
+| Maximal activation examples  | Visualization by optimization |
+| ------------- | ------------- |
+| ![image](examples.png)  | ![image](optimized.png)  |
