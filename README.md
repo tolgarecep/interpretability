@@ -1,5 +1,9 @@
 # Interpretability
 
+`lime_turkcell.ipynb`  
+
+![image](lime.jpg)  
+
 `gradcam.ipynb`
 | Input image | Grad-CAM explanation |
 | ------------- | ------------- |
